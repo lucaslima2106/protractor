@@ -1,0 +1,14 @@
+C:\Dev\Protractor\Protractor\Protractor.Infra\bin\Debug\Protractor.Infra.dll
+C:\Dev\Protractor\Protractor\Protractor.Infra\bin\Debug\Protractor.Infra.pdb
+C:\Dev\Protractor\Protractor\Protractor.Infra\bin\Debug\Dapper.Contrib.dll
+C:\Dev\Protractor\Protractor\Protractor.Infra\bin\Debug\Dapper.dll
+C:\Dev\Protractor\Protractor\Protractor.Infra\bin\Debug\Protractor.exe
+C:\Dev\Protractor\Protractor\Protractor.Infra\bin\Debug\Protractor.pdb
+C:\Dev\Protractor\Protractor\Protractor.Infra\bin\Debug\Protractor.exe.config
+C:\Dev\Protractor\Protractor\Protractor.Infra\bin\Debug\Dapper.xml
+C:\Dev\Protractor\Protractor\Protractor.Infra\bin\Debug\Dapper.Contrib.xml
+C:\Dev\Protractor\Protractor\Protractor.Infra\obj\Debug\Protractor.Infra.csproj.AssemblyReference.cache
+C:\Dev\Protractor\Protractor\Protractor.Infra\obj\Debug\Protractor.Infra.csproj.CoreCompileInputs.cache
+C:\Dev\Protractor\Protractor\Protractor.Infra\obj\Debug\Protractor.Infra.csproj.CopyComplete
+C:\Dev\Protractor\Protractor\Protractor.Infra\obj\Debug\Protractor.Infra.dll
+C:\Dev\Protractor\Protractor\Protractor.Infra\obj\Debug\Protractor.Infra.pdb
