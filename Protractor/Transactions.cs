@@ -23,7 +23,7 @@ namespace Protractor
             List<Transaction> transactions = _transactionsRepository.SearchTransaction(txtBoxSearchTX.Text).ToList();
 
             foreach (var item in transactions)
-                dgvResult.Rows.Add(item.WorkOrder, item.Entry, item.Description, item.Amount);
+                dgvResult.Rows.Add(item.WorkOrder, item.Entry, item.Description, item.Amount.ToString("C2"));
         }
     }
 }
